@@ -217,12 +217,10 @@ This modpack includes a variety of mods to help you and uncover the truth. Below
 
 ***
 
-**Title** : Human Collapse
-
-**Version** : 1.0.0
-
-**Author** : 0xm4rk1h
-
-**Github Page** : https://github.com/0xm4rk1h/Human-Collapse
+**Title** : Human Collapse<br>
+**Version** : 1.0.0<br>
+**Author** : 0xm4rk1h<br>
+**Github Page** : https://github.com/0xm4rk1h/Human-Collapse<br>
+**Curseforge Page**: https://www.curseforge.com/minecraft/modpacks/human-collapse
 
 ***
