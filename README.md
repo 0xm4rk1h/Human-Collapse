@@ -109,7 +109,7 @@ This modpack includes a variety of mods to help you and uncover the truth. Below
 - Torchmaster: torchmaster_1.12.2-1.8.5.0.jar
 - Traveler's Backpack: TravelersBackpack-1.12.2-1.0.35.jar
 - Trash Cans: trashcans-1.0.18-forge-mc1.12.jar
-- Simple Voice Chat: voicechat-forge-1.12.2-2.6.18.jar
+- Simple Voice Chat: voicechat-forge-1.12.2-2.6.20.jar
 
 # Main Mods (Technology / Science / Resources / Farming)
 
