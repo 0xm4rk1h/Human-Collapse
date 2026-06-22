@@ -191,6 +191,7 @@ This modpack includes a variety of mods to help you and uncover the truth. Below
 - Camera Mod: camera-1.0.10.jar
 - Online Picture Frame: OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar
 - Double Doors: doubledoors_1.12.2-2.5.jar
+- UniDict: UniDict-1.12.2-3.0.10.jar
 
 # Libraries & Dependencies
 
@@ -232,7 +233,7 @@ This modpack includes a variety of mods to help you and uncover the truth. Below
 ***
 
 **Title**: Human Collapse  
-**Version**: 1.6.0  
+**Version**: 1.7.0  
 **Author**: 0xm4rk1h  
 **Github Page**: [https://github.com/0xm4rk1h/Human-Collapse](https://github.com/0xm4rk1h/Human-Collapse)
 
