@@ -157,6 +157,7 @@ This modpack includes a variety of mods to help you and uncover the truth. Below
 - Tiny Progressions: tinyprogressions-1.12.2-3.3.34-Release.jar
 - Ender IO: EnderIO-1.12.2-5.3.72.jar
 - Ender IO Endergy: EnderIO-endergy-1.12.2-5.3.72.jar
+- PackagedExCrafting: PackagedExCrafting-1.12.2-1.0.3.33.jar
 
 # Miscellaneous
 
@@ -231,7 +232,7 @@ This modpack includes a variety of mods to help you and uncover the truth. Below
 ***
 
 **Title**: Human Collapse  
-**Version**: 1.5.0  
+**Version**: 1.6.0  
 **Author**: 0xm4rk1h  
 **Github Page**: [https://github.com/0xm4rk1h/Human-Collapse](https://github.com/0xm4rk1h/Human-Collapse)
 
